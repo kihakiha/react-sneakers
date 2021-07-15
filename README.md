@@ -4,4 +4,4 @@ React Router,
 Axios,
 SCSS,
 React Context,
-React Skeleton,
+React Skeleton
